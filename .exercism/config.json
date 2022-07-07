@@ -1,0 +1,22 @@
+{
+  "blurb": "Create an implementation of the atbash cipher, an ancient encryption system created in the Middle East.",
+  "authors": [
+    "filiptoskovic"
+  ],
+  "contributors": [
+    "rpottsoh"
+  ],
+  "files": {
+    "solution": [
+      "uAtbashCipher.pas"
+    ],
+    "test": [
+      "uAtbashCipherTests.pas"
+    ],
+    "example": [
+      ".meta/uAtbashCipherExample.pas"
+    ]
+  },
+  "source": "Wikipedia",
+  "source_url": "http://en.wikipedia.org/wiki/Atbash"
+}
